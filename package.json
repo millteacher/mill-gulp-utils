@@ -1,0 +1,23 @@
+{
+  "name": "mill-gulp-utils",
+  "version": "1.0.0",
+  "description": "about gulp tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millteacher/mill-gulp-utils.git"
+  },
+  "author": "mill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millteacher/mill-gulp-utils/issues"
+  },
+  "homepage": "https://github.com/millteacher/mill-gulp-utils#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
